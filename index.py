@@ -1,6 +1,8 @@
 from flask import Flask
 
 
+pip install flask_mysqldb
+
 app = Flask(__name__)
 
 
