@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return 'Home Page Route'
+    return 'Welcome to my first Python Page hosted in web'
 
 
 @app.route('/about')
